@@ -3,7 +3,9 @@
 **Background:**
 
 ![The image shows left arm of the trainee as red, as it does not follow trainer.](https://i.ibb.co/XtKR5Tn/image.png)
+
 The image shows left arm of the trainee as red, as it does not follow trainer's pre-recorded animation. Right arm is marked green as it is in sync with the trainer's arm.
+
 ![enter image description here](https://i.ibb.co/hC2P8p8/Node.png)
 
 This repository is a spin-off from my university's final year project which was remote gamified workout lesson delivery. The system consisted of 3 parts:
